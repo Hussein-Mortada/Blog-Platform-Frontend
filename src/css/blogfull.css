@@ -1,0 +1,36 @@
+/* blogfull.css */
+
+.blog-full {
+    border: 1px solid #684756;
+    padding: 10px;
+    margin: 5% auto 50px;
+    background-color: #684756;
+    color: white;
+    width: 80%;
+  }
+  
+  .blog-full-header {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .blog-full-industry {
+    font-style: italic;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .blogtext {
+    margin-top: 10px;
+  }
+  
+  /* Styling for the link to the user's profile */
+  .blog-full a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .blog-full a:hover {
+    text-decoration: underline;
+  }
+  

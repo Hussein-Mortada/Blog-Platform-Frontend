@@ -1,0 +1,42 @@
+/* BlogCard.module.css */
+
+.blog-card {
+    width: 50%; /* Set the width to 50% of the parent container */
+    margin: 0 auto 3%; /* Center horizontally */
+    border: 1px solid #1A1423;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #684756;
+    color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Center the text horizontally */
+  }
+  
+  .blog-title {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .blog-user {
+    font-size: 14px;
+    color: white;
+  }
+  
+  .blog-industry {
+    font-size: 14px;
+    color: white;
+    text-align: right;
+  }
+  
+  .bloglink{
+    color: #1A1423;
+  }
+  .bloglink :hover{
+    color: white;
+  }
+  button{
+    background-color: #3D314A;
+    border: 1px solid black;
+    color: white;
+    border-radius: 5px;
+  }

@@ -1,0 +1,56 @@
+.comment-create-card {
+    background-color: #684756;
+    padding: 20px;
+    width: 50%;
+    margin: 0 auto 50px;
+    border: 1px solid #684756;
+    border-radius: 5px;
+    margin-top: 20px;
+    color: white;
+  }
+  
+  .comment-create-card form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .comment-create-card .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .comment-create-card label {
+    font-weight: bold;
+  }
+  
+  .comment-create-card textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    resize: vertical;
+  }
+  .comment-login-message{
+    color: white;
+  }
+  .comment-label{
+    color: white;
+  }
+  .comment-create-card button {
+    background-color: #485461;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .comment-create-card button:hover {
+    background-color: #0056b3;
+  }
+  
+  .comment-login-message {
+    font-weight: bold;
+    color: #000000;
+  }
+  

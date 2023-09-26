@@ -1,0 +1,43 @@
+/* userpage.css */
+
+.user-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    width: 75%;
+    margin: 0 auto;
+    color: white;
+  }
+  
+  .user-blogs-comments {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  .user-blogs,
+  .user-comments {
+    flex: 1;
+    margin: 0 10px;
+  }
+  
+  .user-blogs h2,
+  .user-comments h2 {
+    margin: 0;
+    font-size: 20px;
+  }
+  
+  .blogCard,
+  .commentCard {
+    margin-top: 20px;
+  }
+
+  .user-page a {
+    color: white;
+    border-bottom: 0px;
+
+  }
+  

@@ -1,0 +1,30 @@
+/* commentcard.css */
+
+.comment-card {
+    background-color: #684756;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 0 auto 10px;
+    border-radius: 5px;
+    width: 50%;
+    color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .comment-user {
+    font-weight: bold;
+    color: white;
+    margin-bottom: 5px;
+  }
+  
+  .comment-created {
+    color: white;
+    font-size: 0.8rem;
+    margin-bottom: 5px;
+  }
+  
+  .comment-text {
+    font-size: 1rem;
+    line-height: 1.4;
+  }
+  
